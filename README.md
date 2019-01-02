@@ -1,4 +1,4 @@
-# Metis-Project-Luther
+# Predicting Used Car Prices
 
 This repository includes used car data gathered from Autotrader.com and a linear regression model to accurately predict prices of each car.
 
